@@ -4,7 +4,7 @@ print("Vælg operation:")
 print("1 = Plus")
 print("2 = Minus")
 print("3 = Gange")
-print("4 = Divider")
+print("4 = Divide")
 
 valg = input("Indtast dit valg (1/2/3/4): ")
 
