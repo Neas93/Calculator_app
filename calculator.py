@@ -5,6 +5,7 @@ print("1 = Plus")
 print("2 = Minus")
 print("3 = Gange")
 print("4 = Divider")
+print("total styr på det")
 
 valg = input("Indtast dit valg (1/2/3/4): ")
 
